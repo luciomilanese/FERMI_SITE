@@ -1,0 +1,41 @@
+<?php
+$lang = array();
+$lang['PAGE_TITLE'] = 'FERMI Database';
+$lang['MENU_HOME'] = 'Home';
+$lang['MENU_SEARCH'] = 'Find';
+$lang['MENU_MAP'] = 'Map';
+$lang['MENU_ABOUT'] = 'About';
+$lang['MORE'] = 'More';
+$lang['WELCOME'] = 'Welcome to the homepage of the FERMI database';
+$lang['ALL'] = 'All';
+$lang['FIELD'] = "Field";
+$lang['PERIOD'] = "Period";
+//filtri
+$lang["FILTER_PARTICLE_FIELDS"] = "Particles";
+$lang["FILTER_SPACESCIENCE"] ="Space Physics";
+$lang["FILTER_VARIE"] ="Multiple areas";
+$lang["FILTER_PLASMA"] ="Plasma";
+$lang["FILTER_COMPLEX_SYSTEMS"] ="Complex SystemsSistemi complessi";
+$lang["FILTER_ATOMIC_MOLECULAR_OPTICAL"] ="Atomic and Molecular OpticsOttica atomica e molecolare";
+$lang["FILTER_NANOSCIENCE"] ="Nanoscience";
+$lang["FILTER_LASER"] ="Laser";
+$lang["FILTER_FLUID"] ="Fluids";
+$lang["FILTER_ASTROPHYSICS"] ="Astrophysics";
+$lang["FILTER_DEFENSE"] ="Defense";
+$lang["FILTER_TEACHING"] ="Teaching";
+$lang["FILTER_BIOPHYSICS"] ="Biophysics";
+$lang["FILTER_NUCLEAR"] ="Nuclear Physics";
+$lang["FILTER_CONDENSED_MATTER"] ="Condensed Matter Materia condensata";
+$lang["FILTER_MATERIALS"] ="Materials Fisica dei materiali";
+$lang["FILTER_COMPUTATIONAL"] ="Computational Physics Fisica computazionale";
+$lang["FILTER_CHEMICAL"] ="Chemical Physics Chimica";
+$lang["FILTER_FLUID_DYNAMICS"] ="Fluid Dyanmics";
+$lang["FILTER_GRAVITATIONAL"] ="Gravitazione";
+$lang["FILTER_BEAMS"] ="Beams";
+$lang["FILTER_POLYMER"] ="Polimeri";
+$lang["FILTER_YEAR"] = "Year long";
+$lang["FILTER_SUMMER"] = "Summer";
+$lang["FILTER_AUTUMN"] = "Autumn";
+$lang["FILTER_WINTER"] = "Winter";
+$lang["FILTER_SPRING"] = "Spring";
+?>
